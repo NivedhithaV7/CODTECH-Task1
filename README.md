@@ -109,3 +109,7 @@ Loop back to the menu unless the exit option is chosen.
 
 End:
 Exit gracefully and thank the user.
+
+OUTPUT:
+![Screenshot (41)](https://github.com/user-attachments/assets/9e342f7c-b256-4df1-bfe2-f08f0cb6b9bf)
+
