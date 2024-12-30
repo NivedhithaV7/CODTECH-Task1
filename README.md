@@ -111,5 +111,10 @@ End:
 Exit gracefully and thank the user.
 
 OUTPUT:
+![Screenshot (40)](https://github.com/user-attachments/assets/84a9bd20-53c7-4a36-bc95-76600764b998)
+
 ![Screenshot (41)](https://github.com/user-attachments/assets/9e342f7c-b256-4df1-bfe2-f08f0cb6b9bf)
 
+![Screenshot (42)](https://github.com/user-attachments/assets/701c7aa4-c4b8-4602-9bb2-5a7e465f7ca3)
+
+![Screenshot (43)](https://github.com/user-attachments/assets/51fa4db6-a176-4546-956f-82164878c37a)
