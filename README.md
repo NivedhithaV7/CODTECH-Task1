@@ -4,7 +4,11 @@ ID: CT08FFG
 DOMAIN: JAVA PROGRAMMING
 DURATION: DECEMBER 20TH, 2024 TO JANUARY 20TH, 2025
 TRAINER:
+
+
 OVERVIEW OF SIMPLE CALCULATOR USING JAVA PROJECT
+
+
 INTRODUCTION:
 A Basic Calculator project in Java is a simple application to perform arithmetic operations. It showcases fundamental programming concepts such as control structures, loops, and user interaction, making it a great project for beginners. The calculator operates through a menu-driven interface in the console, allowing users to execute operations step by step.
 
