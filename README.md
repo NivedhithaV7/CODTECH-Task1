@@ -1,8 +1,13 @@
 NAME: V NIVEDHITHA
+
 COMPANY:CODTECH ITSOLUTIONS
+
 ID: CT08FFG
+
 DOMAIN: JAVA PROGRAMMING
+
 DURATION: DECEMBER 20TH, 2024 TO JANUARY 20TH, 2025
+
 TRAINER:
 
 
@@ -19,10 +24,15 @@ The project is designed to: Perform basic operations such as addition, subtracti
                             
 FEATURES:
 ARITHMETIC OPERATIONS:
+
 ADDITION: Sum of two numbers.
+
 SUBTRACTION: Difference between two numbers.
+
 MULTIPLICATION: Product of two numbers.
+
 DIVISION: Quotient of two numbers (with zero-check).
+
 MENU-BASED SYSTEM: Easy-to-navigate options presented to the user.
 
 INPUT HANDLING:Accepts numerical input from users using the Scanner class.
@@ -31,10 +41,13 @@ ERROR HANDLING: Prevents invalid operations such as division by zero.
                 Handles invalid input types with appropriate error messages.
                 Loop for Continuity:
                 Allows users to perform multiple operations without restarting the program.
+                
 EXIT OPTION: Provides a clean exit point for users to terminate the program.
 
 SYSTEM DESIGN:
+
 INPUT VALIDATION:
+
 Ensures only valid numerical data is processed. It also verifies division and modulus operations are safe by checking the divisor.
 
 CONTROL FLOW:
@@ -47,19 +60,23 @@ ERROR MESSAGES:
 Displays clear messages when errors like invalid inputs or division by zero occur.
 
 ALGORITHM:
+
 Initialize: Display a menu listing all operations.
+
 User Input: Accept the user's choice and required numbers.
-Operation Execution:
-Match the user's choice with the corresponding operation.
-Call the appropriate method.
-Error Handling:
-If division by zero is detected, alert the user and skip the operation.
-If invalid input is provided, request input again.
+
+Operation Execution: Match the user's choice with the corresponding operation.
+                    Call the appropriate method.
+                    
+Error Handling: If division by zero is detected, alert the user and skip the operation.
+                If invalid input is provided, request input again.
+                
 Result Display: Show the computed result.
-Repeat or Exit:
-Continue if the user opts for another operation.
-Exit cleanly if the user selects the exit option.
+
+Repeat or Exit: Continue if the user opts for another operation.
+                Exit cleanly if the user selects the exit option.
 ADVANTAGES:
+
 Simplicity:
 
 Clear and concise operations.
